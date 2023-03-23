@@ -1,7 +1,7 @@
 {
-  "name": "pras-next",
+  "name": "my-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "author": "Mhd Ilham U",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
