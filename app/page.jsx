@@ -10,7 +10,7 @@ export default function Home() {
       paragraph: "I designed and developed a promotional website or landing page to purchase a Mitsubishi car in Batam.",
       linkStudyCase: "/",
       linkLivePreview: "https://pras-next.vercel.app",
-      tag1: "#paragraph",
+      tag1: "#javascript",
       tag2: "#react",
       tag3: "#nextjs",
       tag4: "#tailwindcss",
