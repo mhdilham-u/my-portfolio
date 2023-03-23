@@ -23,7 +23,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  background: url("/decoration.png") no-repeat;
+  background: url("/decoration.webp") no-repeat;
   background-size: cover;
 }
 
